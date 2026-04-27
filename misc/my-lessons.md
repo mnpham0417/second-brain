@@ -1,0 +1,1 @@
+- Don't be too excited when speaking to people, you might say stuff you regret.

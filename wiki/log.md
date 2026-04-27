@@ -1,0 +1,79 @@
+# Wiki Activity Log
+
+Append-only. Newest entries at the bottom. One line per change.
+
+Format: `YYYY-MM-DD — action — page — short note`
+
+---
+
+- 2026-04-24 — init — — vault scaffold created (raw/, wiki/, journal/, content/)
+- 2026-04-24 — ingest — sources/user-minh-pham-export.md — created from raw/claude-exports/user-minh-pham.md
+- 2026-04-24 — ingest — people/minh-pham.md — created person dossier for vault owner
+- 2026-04-24 — ingest — sources/project-how-to-use-claude-export.md — created from raw/claude-exports/project-how-to-use-claude.md
+- 2026-04-24 — ingest — projects/how-to-use-claude.md — created project page for the starter project
+- 2026-04-24 — ingest — sources/project-linhs-code-export.md — created from raw/claude-exports/project-linhs-code.md
+- 2026-04-24 — ingest — projects/linhs-code.md — created project stub
+- 2026-04-24 — ingest — sources/project-eb2-niw-eb1a-export.md — created from raw/claude-exports/project-eb2-niw-eb1a.md
+- 2026-04-24 — ingest — projects/eb2-niw-eb1a.md — created project page for green-card petition prep
+- 2026-04-24 — ingest — sources/project-uk-trip-export.md — created from raw/claude-exports/project-uk-trip.md
+- 2026-04-24 — ingest — projects/uk-trip.md — created project page for UK travel planning
+- 2026-04-24 — ingest — sources/project-lsat-export.md — created from raw/claude-exports/project-lsat.md
+- 2026-04-24 — ingest — projects/lsat-study.md — created project page for LSAT study workspace
+- 2026-04-24 — ingest — sources/project-ar-wm-attacks-export.md — created from raw/claude-exports/project-ar-wm-attacks.md
+- 2026-04-24 — ingest — projects/ar-wm-attacks.md — created project stub for watermark-attack research
+- 2026-04-24 — ingest — sources/project-phd-thesis-export.md — created from raw/claude-exports/project-phd-thesis.md
+- 2026-04-24 — ingest — projects/phd-thesis.md — created project stub for PhD thesis
+- 2026-04-24 — ingest — concepts/effective-prompting.md — umbrella concept page from Claude prompting guide
+- 2026-04-24 — ingest — concepts/few-shot-prompting.md — concept extracted from Claude prompting guide
+- 2026-04-24 — ingest — concepts/chain-of-thought-prompting.md — concept extracted from Claude prompting guide
+- 2026-04-24 — ingest — concepts/role-prompting.md — concept extracted from Claude prompting guide
+- 2026-04-24 — ingest — concepts/iterative-prompt-refinement.md — concept extracted from Claude prompting guide
+- 2026-04-24 — ingest — concepts/llm-statelessness.md — concept extracted from Claude prompting guide
+- 2026-04-24 — ingest — concepts/socratic-tutoring-prompt-pattern.md — concept extracted from LSAT project prompt template
+- 2026-04-24 — update — index.md — added Concepts, Projects, People, Source summaries entries
+- 2026-04-24 — ingest — sources/misc-meta-relocation.md — created from misc/meta-relocation.md
+- 2026-04-24 — ingest — sources/misc-conversations.md — created from misc/conversations.md
+- 2026-04-24 — ingest — sources/misc-people.md — created from misc/people.md
+- 2026-04-24 — ingest — sources/misc-my-lessons.md — created from misc/my-lessons.md
+- 2026-04-24 — ingest — sources/misc-random.md — created from misc/random.md (API key NOT reproduced — see security flag)
+- 2026-04-24 — ingest — sources/journal-reminder.md — created from journal/reminder.md
+- 2026-04-24 — ingest — sources/journal-2026-04-21.md — created from journal/2026/04/2026-04-21.md
+- 2026-04-24 — ingest — sources/journal-2026-04-22.md — created from journal/2026/04/2026-04-22.md
+- 2026-04-24 — ingest — sources/journal-2026-04-23.md — created from journal/2026/04/2026-04-23.md
+- 2026-04-24 — ingest — sources/journal-2026-04-24.md — created from journal/2026/04/2026-04-24.md
+- 2026-04-24 — ingest — people/dat-huynh.md — created from misc/people.md + misc/conversations.md
+- 2026-04-24 — ingest — people/rohit-gandikota.md — created from misc/people.md
+- 2026-04-24 — ingest — people/chung-nguyen.md — created from misc/people.md
+- 2026-04-24 — ingest — people/thanh-nguyen.md — created from misc/people.md
+- 2026-04-24 — ingest — people/vu-hong-whitehill.md — created from misc/people.md
+- 2026-04-24 — ingest — people/nills-relocation-specialist.md — created from misc/meta-relocation.md
+- 2026-04-24 — ingest — people/linh.md — created from journal/reminder.md
+- 2026-04-24 — ingest — people/zongze-wu.md — created from misc/people.md (named-entity stub)
+- 2026-04-24 — ingest — projects/seattle-relocation.md — created from misc/meta-relocation.md + journal daily notes
+- 2026-04-24 — ingest — projects/rethinking-erasure.md — created from journal daily notes (recurring research workstream)
+- 2026-04-24 — ingest — projects/rgpo-empire-ai.md — created from journal daily notes
+- 2026-04-24 — ingest — projects/europe-trip-2026.md — created from journal/reminder.md
+- 2026-04-24 — ingest — concepts/meta-engineering-culture.md — created from misc/conversations.md (Dat's Meta-leveling lecture)
+- 2026-04-24 — update — people/minh-pham.md — extended with Meta job, NYU thesis deadline, daily-note context, expanded relations
+- 2026-04-24 — update — projects/phd-thesis.md — added 2026-05-08 submission deadline + feeder workstreams
+- 2026-04-24 — update — projects/eb2-niw-eb1a.md — added journal/reminder.md as a source; flagged Chung as possible attorney
+- 2026-04-24 — update — projects/linhs-code.md — linked to people/linh.md as plausible same-person reference
+- 2026-04-24 — update — index.md — added all new pages across Concepts / Projects / People / Source summaries
+- 2026-04-24 — ingest — sources/journal-2026-04-14.md — created from journal/2026/04/2026-04-14.md
+- 2026-04-24 — ingest — sources/journal-2026-04-15.md — created from journal/2026/04/2026-04-15.md
+- 2026-04-24 — ingest — sources/journal-2026-04-16.md — created from journal/2026/04/2026-04-16.md
+- 2026-04-24 — ingest — sources/journal-2026-04-17.md — created from journal/2026/04/2026-04-17.md (Dat lunch + thesis-to-committee + Fragomen)
+- 2026-04-24 — ingest — sources/journal-2026-04-18.md — created from journal/2026/04/2026-04-18.md (Rohit / anh Thanh / anh Loc meet-ups)
+- 2026-04-24 — ingest — sources/journal-2026-04-19.md — created from journal/2026/04/2026-04-19.md (lunch with Jake)
+- 2026-04-24 — ingest — sources/journal-2026-04-20.md — created from journal/2026/04/2026-04-20.md (ECCV review)
+- 2026-04-24 — ingest — sources/journal-todo.md — created from journal/todo.md (near-duplicate of reminder.md, surfaced via daily transclusion)
+- 2026-04-24 — ingest — projects/meta-onboarding-i9.md — created project page for Meta hire paperwork (I-9 + Fragomen)
+- 2026-04-24 — update — projects/rgpo-empire-ai.md — extended timeline back to 2026-04-14/15 (scripts launched + job submitted)
+- 2026-04-24 — update — projects/rethinking-erasure.md — extended timeline back to 2026-04-16 (first ✅) and added 2026-04-17/20 entries
+- 2026-04-24 — update — projects/phd-thesis.md — added 2026-04-15/16/17 timeline (revise → finalize → submit-to-committee)
+- 2026-04-24 — update — people/dat-huynh.md — clarified 2026-04-17 career-advice convo was a lunch
+- 2026-04-24 — update — people/rohit-gandikota.md — added 2026-04-18 lunch with Minh
+- 2026-04-24 — update — people/thanh-nguyen.md — added 2026-04-18 dinner with Minh
+- 2026-04-24 — update — sources/misc-conversations.md — noted the 2026-04-17 conversation was over lunch
+- 2026-04-24 — update — people/minh-pham.md — extended sources/related to cover 2026-04-14 → 2026-04-20 daily notes + meta-onboarding-i9
+- 2026-04-24 — update — index.md — added meta-onboarding-i9 + 8 new source-summary entries

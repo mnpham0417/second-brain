@@ -1,0 +1,15 @@
+## 2026-04-17
+- Who: Dat Meta
+- We talked about PhD life and culture at Meta.
+- For E4 -> E5, execution and trust are most important. When you say you will deliver something, you should deliver it on time. Need to have a good approximation of when the task will be done. This is almost guaranteed.
+- For E5 -> E6, there are specialist routes, generalist routes, or manager routes. The first means there are certain issues only you can solve. For the second two, you need to go around dealing with a lot of politics.
+- You should raise issues and volunteer to fix it. If you need more time to approximate time to finish the issues, say I'll need 1 day to diagnose this, then give timeline. Dat says as a senior, he appreciates timeline. For a manager having to deal with a lot of stuff already, not having a clear timeline can cause anxiety.
+- Manger is on your side, because their job is to grow people.
+- Stack ranking often happens for Exceeds or Below. For the first, since there are limited Exceeds, other manager will try to push other Exceeds down. For the latter, they might think the manager has an issue with the employee.
+- For the first few years, you should grind out. Meta is not a place to chill.
+- Based on Dat's knowledge, the team and org that I will be under are not too crazy. He used to work under Facebook Integrity when he first joined.
+- When your manager asks you very often if I need help, i.e. micromanaging, they don't have trust. As this reduces, more trust is built. Ultimate trust is when gossip happens.
+- The team that I will be joining soon under Facebook Integrity has many senior people, which is good since I have people to ask for stuff. He said I would also be likely paired with someone senior.
+- When you take on a project, and someone from another team is already doing it, it's good to do alignment, i.e. collaborate.
+- Execution and the amount of work taken to do the task are most important, even if you are not the person that initiates it.
+- At this job market, people don't care about your titles; they care about what you have worked on in the past. Hence, you need to balance between projects that are good for short-term and long-term.
