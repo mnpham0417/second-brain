@@ -77,3 +77,19 @@ Format: `YYYY-MM-DD — action — page — short note`
 - 2026-04-24 — update — sources/misc-conversations.md — noted the 2026-04-17 conversation was over lunch
 - 2026-04-24 — update — people/minh-pham.md — extended sources/related to cover 2026-04-14 → 2026-04-20 daily notes + meta-onboarding-i9
 - 2026-04-24 — update — index.md — added meta-onboarding-i9 + 8 new source-summary entries
+- 2026-04-26 — pull-sources — raw/ — claude-code: 7 written / 7 filtered / 0 dedupe-skipped; gmail: 20 written / 30+ filtered / 0 dedupe-skipped; google-calendar: 7 written / 0 filtered / 0 dedupe-skipped
+- 2026-04-26 — ingest — sources/gmail-amazon-science-offer-2026-04-22.md — created from raw/gmail/2026-04-22-asp-offersonboarding…
+- 2026-04-26 — create — projects/amazon-applied-science.md — Amazon L5 Applied Science offer (Seattle, June 15 start)
+- 2026-04-26 — ingest — sources/gmail-relocity-consultation-confirmed-2026-04-22.md — Apr 23 Relocity Zoom setup + Nils Dahlgren contact info
+- 2026-04-26 — ingest — sources/gmail-relocity-first-call-followup-2026-04-23.md — 8 sample properties + Apr 28 virtual tour
+- 2026-04-26 — ingest — sources/gmail-nyu-rcr-compliance-2026-04-22.md — NYU RIC overdue-RCR follow-up; deadline May 1
+- 2026-04-26 — ingest — sources/gmail-icml-desk-reject-2026-04-25.md — ICML 2026 paper #33003 desk-rejected
+- 2026-04-26 — ingest — sources/gmail-tmlr-signet-overdue-2026-04-26.md — TMLR paper 8391 ack 5 days late
+- 2026-04-26 — ingest — sources/gmail-tinker-kimi-qwen-update-2026-04-23.md — Tinker product update (Kimi K2.6, Qwen3.6)
+- 2026-04-26 — ingest — sources/google-calendar-whitehill-lunch-2026-04-19.md — Apr 19 lunch hold; reconciles "Jake" → Whitehill
+- 2026-04-26 — update — projects/rethinking-erasure.md — confirmed topic from ICML #33003 title; added desk-reject status
+- 2026-04-26 — update — projects/seattle-relocation.md — added Apr 23 follow-up + Apr 28 virtual tour; flagged Amazon contradiction
+- 2026-04-26 — update — people/nills-relocation-specialist.md — full name Nils Dahlgren, phone, Relocity title, escalations
+- 2026-04-26 — update — people/vu-hong-whitehill.md — added Apr 19 lunch event; "Jake" reconciliation
+- 2026-04-26 — update — people/minh-pham.md — Amazon offer + ICML desk-reject + RCR + TMLR overdue + Vietnamese full name
+- 2026-04-26 — update — index.md — added Amazon project + 8 new source-summary entries; flagged meta-onboarding-i9 as possibly mislabeled

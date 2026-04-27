@@ -26,7 +26,8 @@ Master catalog of every page in `wiki/`. Each entry: `[Title](path) — one-line
 - [Rethinking erasure (research workstream)](projects/rethinking-erasure.md) — recurring research workstream in daily notes; likely concept-erasure / unlearning, but topic unstated.
 - [rgpo on Empire AI](projects/rgpo-empire-ai.md) — set up "rgpo" on the Empire AI cluster (acronym unexplained); set up 2026-04-21.
 - [Europe trip 2026](projects/europe-trip-2026.md) — Greece / Rome / South of France April plan, likely deferred per cross-referenced daily notes.
-- [Meta onboarding (I-9 / Fragomen)](projects/meta-onboarding-i9.md) — Meta hire paperwork track; I-9 done 2026-04-16, Fragomen email sent 2026-04-17.
+- [Meta onboarding (I-9 / Fragomen)](projects/meta-onboarding-i9.md) — Meta hire paperwork track; I-9 done 2026-04-16, Fragomen email sent 2026-04-17. *(Likely mislabeled — see [[amazon-applied-science]] contradiction.)*
+- [Amazon Applied Science (L5) — Seattle FTE](projects/amazon-applied-science.md) — accepted Jan 2026; start moved to **2026-06-15**, SEA26-Rufus, year-one TC ~$343,902.
 
 ## People
 
@@ -68,3 +69,11 @@ Master catalog of every page in `wiki/`. Each entry: `[Title](path) — one-line
 - [Source: Daily note 2026-04-22](sources/journal-2026-04-22.md) — housing-consultation prep day; rgpo done again.
 - [Source: Daily note 2026-04-23](sources/journal-2026-04-23.md) — first relocation consultation with Nills; rethinking erasure ✅ for the day.
 - [Source: Daily note 2026-04-24](sources/journal-2026-04-24.md) — today; rethinking erasure back to open.
+- [Source: Amazon Science full-time offer thread](sources/gmail-amazon-science-offer-2026-04-22.md) — Sep 2025 → Apr 2026 thread; offer accepted Jan 5; start moved to June 15, 2026.
+- [Source: Relocity first consultation confirmed](sources/gmail-relocity-consultation-confirmed-2026-04-22.md) — Apr 23 11am PT Zoom call setup; Nils Dahlgren full contact details.
+- [Source: Relocity first-call follow-up](sources/gmail-relocity-first-call-followup-2026-04-23.md) — 8 sample properties + criteria captured; virtual area tour Apr 28 1:30pm PT.
+- [Source: NYU RIC RCR compliance follow-up](sources/gmail-nyu-rcr-compliance-2026-04-22.md) — overdue RCR education for federal-grant project; respond by May 1.
+- [Source: ICML 2026 desk-reject — paper #33003](sources/gmail-icml-desk-reject-2026-04-25.md) — "Forgetting is Competition" desk-rejected; confirms [[rethinking-erasure]] topic.
+- [Source: TMLR overdue ack — paper 8391 "Signet"](sources/gmail-tmlr-signet-overdue-2026-04-26.md) — assignment ack 5 days late.
+- [Source: Tinker product update — Kimi K2.6 / Qwen3.6](sources/gmail-tinker-kimi-qwen-update-2026-04-23.md) — three new models on Tinker; same pricing as predecessors.
+- [Source: Calendar — Lunch at Prof. Whitehill's place](sources/google-calendar-whitehill-lunch-2026-04-19.md) — 2026-04-19 lunch hold; reconciles "Jake" → Jacob Whitehill.
