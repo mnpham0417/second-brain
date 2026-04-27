@@ -1,0 +1,17 @@
+![[todo]]
+
+# Habit
+- [ ] Medicine
+- [ ] Gym
+- [ ] Check emails/messages
+- [ ] Read paper
+
+# Work
+
+
+# Misc
+
+
+-----------
+
+
