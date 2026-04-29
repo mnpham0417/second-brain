@@ -132,3 +132,15 @@ All eight buildings sit in dense urban cores — every one has plentiful restaur
   Dense dining pocket around Denny Way: **Bateau**, **Lola**, **Shaker + Spear**, **Pine Box**, **Black Bottle**, **Mamnoon**. Walk to **Starbucks Reserve Roastery** (~5 min). Bars: **Pine Box**, **Rob Roy**. Grocery: Whole Foods (~7 min); District H is ~10 min (borderline). Close to Capitol Hill scene.
 
 **Verdict on this criterion:** All eight satisfy "near supermarkets" with something within 10 min. **Kiara** has the closest grocery (same-block District H) but is over budget. Among the within-budget shortlist, **Siteline** and **Orion** have the most balanced neighborhood (4 grocery options each + dense SLU restaurant scene). **Artix** has the most distinctive dining strip (Queen Anne Ave N) but the farthest commute.
+
+Orion
+- None found
+
+110 Roy
+- None
+
+Marlowe
+- None
+
+Kiara
+- None
