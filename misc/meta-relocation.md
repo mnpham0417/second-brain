@@ -1,3 +1,12 @@
+## Purchase List
+
+### Priority
+- [Mattress](https://www.amazon.com/Casper-Sleep-Element-Mattress-Model/dp/B085H7D8JZ/ref=sr_1_1_sspa?crid=2R42SY3NB9QBF&dib=eyJ2IjoiMSJ9.1o_MElcphI2oWP8NpOzo3WeV4shsIaLwfzB08p-a6z8gvyP6RhQMrrbvRqVV-czDfVPQC4xmCz24M3cnwkXHiFKgKOy86XEzHAqhQfmcr6EpJhx_AY6pcUDN9ymss8vNX5pw6uuiAfhFFV2Gq2MMoyPzC8bwBYKgmkr3sEwVyuGrGS0YvTiFetHQILs7bfP2x2Hm0DjKdHFm2_mYFtBrdZTEvg4bRKAWH7uq7A8NFdAGzgmDYSiw2ib34YG4nXMcGWNC2B_wrH_fic4RMcWrBPidIeE7r6z0nEu_Md1jwAw.28strJt_lfdgJzckRlzhbz77L0a3VqFROL8E4oJNR2k&dib_tag=se&keywords=casper%2Bfull%2Bsize%2Bmattress&qid=1777558090&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=casper%2Bfull%2Caps%2C191&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1) : $595
+- [Bed Frame](https://www.amazon.com/LIFEMENT-Platform-Headboard-Essential-Assembly/dp/B0DX44X6CM/ref=sr_1_1_sspa?crid=E25ZAZB6BK4U&dib=eyJ2IjoiMSJ9.lUyOi54sJylAin0NZOvT9qMITM_YddgqTlxFZEFdfGE0cApDzjByKOPlddX6iBnijdiwZs13ZaOQrZNtYVAVAIEF_lavF6O5fsgrCFyUwIVdp8NHUOAK7zUzMXowWuI-4mt5rQCpIwBBVJbnVBbQqImHgaDEQK37PaX-gpNmVrjUa9Usa24MinfeskhFrgyzbdQ-BmVQLs6H2mN7-xnD-3Yoc0wXzyrM6zXN9VtFRyOL2W3enZdifg8ec7z65l2WYYDMlZ3oTW-O7blkHa7ZhNvFc4RWGhBao1OEmGfSMig.0XBmDh532p6qozUViB8Hodjt-wezlvQYqZZPA0855qQ&dib_tag=se&keywords=full%2Bsize%2Bbed%2Bframe&qid=1777558632&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=full%2B%2Caps%2C210&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1) : $249
+- [Office Desk](https://www.autonomous.ai/standing-desks/desk-5-pro?product_url_sequence_code=7456_1) : $499
+- [Electric Screwdriver](https://www.amazon.com/Fanttik-S1-Cordless-Screwdriver-Furniture/dp/B0C141QZVL/ref=sr_1_9?dib=eyJ2IjoiMSJ9.qsmEzS6UjHyspeJVClwZCZE0nOTf3OAzJecMUhzr0ehXgHUiDXalannSaVDBrLLbly50vc_VKdh_KrIUI8EafN0E_IOvwf2e8r4MKUz9mWXip2YDf0sHGxODmAigLllMhIHHSFY7o7q6Gjf_6CAajGbaKCokubUMjNsWIyre2JM3wjCt3lo3vUgtRtJBdaFVHA2mRA4PWJrHLqDUv-As-jTT-H6-bkB56bhBPNRimDcWcmGEiaAdgHquKt7UjcvWYgaqpfIV4Bus8or11G6ANzhVsR8BtqQvOiGgPdm3VF0.Tln84-yRojEIWmnkdZQJRXm5-U0Zwq-zOLDPBI19oM4&dib_tag=se&keywords=electric+screw&qid=1777559002&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sr=8-9) : $59
+- [Dyson V12 Detect Slum]
+
 ## First Consultation 
 - Occurs April 23
 - The guy helping me name is Nills
@@ -132,15 +141,3 @@ All eight buildings sit in dense urban cores — every one has plentiful restaur
   Dense dining pocket around Denny Way: **Bateau**, **Lola**, **Shaker + Spear**, **Pine Box**, **Black Bottle**, **Mamnoon**. Walk to **Starbucks Reserve Roastery** (~5 min). Bars: **Pine Box**, **Rob Roy**. Grocery: Whole Foods (~7 min); District H is ~10 min (borderline). Close to Capitol Hill scene.
 
 **Verdict on this criterion:** All eight satisfy "near supermarkets" with something within 10 min. **Kiara** has the closest grocery (same-block District H) but is over budget. Among the within-budget shortlist, **Siteline** and **Orion** have the most balanced neighborhood (4 grocery options each + dense SLU restaurant scene). **Artix** has the most distinctive dining strip (Queen Anne Ave N) but the farthest commute.
-
-Orion
-- None found
-
-110 Roy
-- None
-
-Marlowe
-- None
-
-Kiara
-- None
