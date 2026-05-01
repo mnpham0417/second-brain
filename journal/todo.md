@@ -2,6 +2,5 @@
 - Work on EB2
 - Update NYU diploma shipping address (deadline is May 14)
 - Renew NYU Torch account
-- Bảo chị Linh trả tiền
 - Set up second brain (https://learn.nextwork.org/projects/ai-second-brain-claude-code?utm_source=youtube&track=no)
-- Check for Amazon refund to gift card balance (initiated on April 26)
+- Update job and address to NYU international house
