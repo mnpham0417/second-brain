@@ -6,4 +6,3 @@
 - Update job and address to NYU international house
 - Book flight ticket to Seattle
 - Amazon onboarding
-- Schedule interview to change name on SSN in Seattle
