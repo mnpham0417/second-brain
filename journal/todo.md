@@ -4,3 +4,4 @@
 - Renew NYU Torch account
 - Set up second brain (https://learn.nextwork.org/projects/ai-second-brain-claude-code?utm_source=youtube&track=no)
 - Update job and address to NYU international house
+- Update CV and latest information for EB2
