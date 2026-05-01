@@ -5,3 +5,4 @@
 - Set up second brain (https://learn.nextwork.org/projects/ai-second-brain-claude-code?utm_source=youtube&track=no)
 - Update job and address to NYU international house
 - Book flight ticket to Seattle
+- Amazon onboarding
