@@ -6,3 +6,5 @@
 - Update job and address to NYU international house
 - Book flight ticket to Seattle
 - Amazon onboarding
+- Ping John Kim at Meta to chat
+- Send lease to Nills
