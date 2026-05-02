@@ -1,6 +1,5 @@
 - Check Robinhood Claim
 - Work on EB2
-- Update NYU diploma shipping address (deadline is May 14)
 - Renew NYU Torch account
 - Set up second brain (https://learn.nextwork.org/projects/ai-second-brain-claude-code?utm_source=youtube&track=no)
 - Update job and address to NYU international house
@@ -8,3 +7,4 @@
 - Amazon onboarding
 - Ping John Kim at Meta to chat
 - Send lease to Nills
+- Set up Internet with Quantum Fiber for new apartment
