@@ -8,3 +8,4 @@
 - Ping John Kim at Meta to chat
 - Send lease to Nills
 - Set up Internet with Quantum Fiber for new apartment
+- Check out course from [walkinglabs](https://github.com/walkinglabs)
