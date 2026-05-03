@@ -9,3 +9,4 @@
 - Send lease to Nills
 - Set up Internet with Quantum Fiber for new apartment
 - Check out course from [walkinglabs](https://github.com/walkinglabs)
+- Send My money, i.e. 4K
