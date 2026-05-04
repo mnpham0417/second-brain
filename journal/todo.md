@@ -11,3 +11,4 @@
 - Check out course from [walkinglabs](https://github.com/walkinglabs)
 - Send My money, i.e. 4K
 - Get PC shipping box
+- Schedule dinner with NYU folks
