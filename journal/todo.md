@@ -12,4 +12,5 @@
 - Get PC shipping box
 - Schedule dinner with NYU folks
 - Request refund for Oreo wet food
-- My has US visa interview on July 6
+- Tra My has US visa interview on July 6
+- Borrow 3k from LD
