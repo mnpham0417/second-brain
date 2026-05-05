@@ -1,10 +1,10 @@
 - [ ] aceanti
-- [ ] advunlearn
+- [x] advunlearn
 - [ ] ccrt
 - [ ] coerasing
 - [ ] cpe
 - [ ] dumo
-- [ ] erasediff
+- [x] erasediff
 - [x] ga
 - [ ] mace
 - [ ] race
