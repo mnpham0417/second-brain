@@ -12,3 +12,4 @@
 - Send My money, i.e. 4K
 - Get PC shipping box
 - Schedule dinner with NYU folks
+- Request refund for Oreo wet food
