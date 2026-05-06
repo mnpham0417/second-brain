@@ -5,7 +5,6 @@
 - Book flight ticket to Seattle
 - Amazon onboarding
 - Ping John Kim at Meta to chat
-- Set up Internet with Quantum Fiber for new apartment
 - Check out course from [walkinglabs](https://github.com/walkinglabs)
 - Send My money, i.e. 4K
 - Get PC shipping box
@@ -13,3 +12,4 @@
 - Request refund for Oreo wet food
 - Tra My has US visa interview on July 6
 - Borrow 3k from LD
+- Set up electricity + rental insurance for Artix
