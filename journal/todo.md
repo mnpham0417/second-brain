@@ -12,4 +12,4 @@
 - Request refund for Oreo wet food
 - Tra My has US visa interview on July 6
 - Borrow 3k from LD
-- Set up electricity + rental insurance for Artix
+- Set up electricity + rental insurance (check Nills email for Lemonade) for Artix
