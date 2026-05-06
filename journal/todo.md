@@ -14,3 +14,4 @@
 - Set up electricity + rental insurance (check Nills email for Lemonade) for Artix
 - Book table at Gopchang NYC on May 13, 8:30 PM ET
 - Find a place to eat for dinner with NYU folks
+- Finish Post-Completion OPT Reporting when start job.
