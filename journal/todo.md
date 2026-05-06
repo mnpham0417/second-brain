@@ -8,8 +8,9 @@
 - Check out course from [walkinglabs](https://github.com/walkinglabs)
 - Send My money, i.e. 4K
 - Get PC shipping box
-- Schedule dinner with NYU folks
 - Request refund for Oreo wet food
 - Tra My has US visa interview on July 6
 - Borrow 3k from LD
 - Set up electricity + rental insurance (check Nills email for Lemonade) for Artix
+- Book table at Gopchang NYC on May 13, 8:30 PM ET
+- Find a place to eat for dinner with NYU folks

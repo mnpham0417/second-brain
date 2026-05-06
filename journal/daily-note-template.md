@@ -7,6 +7,8 @@
 - [ ] Read paper
 
 # Work
+- [ ] Proof read RGPO
+- [ ] Work on rethinking erasure
 
 # Misc
 
