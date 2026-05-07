@@ -13,3 +13,4 @@
 - Find a place to eat for dinner with NYU folks
 - Finish Post-Completion OPT Reporting when start job.
 - Set up a time for Nills to come and do inspection
+- Check Amazon refund credit
