@@ -1,9 +1,9 @@
 ![[todo]]
 
 # Habit
-- [ ] Medicine
+- [x] Medicine
 - [ ] Gym
-- [ ] Check emails/messages
+- [x] Check emails/messages
 - [ ] Read paper
 
 # Work
