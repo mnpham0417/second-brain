@@ -6,11 +6,10 @@
 - Ping John Kim at Meta to chat
 - Check out course from [walkinglabs](https://github.com/walkinglabs)
 - Send My money, i.e. 4K
-- Get PC shipping box
 - Tra My has US visa interview on July 6
 - Borrow 3k from LD
 - Set up electricity + rental insurance (check Nills email for Lemonade) for Artix
-- Find a place to eat for dinner with NYU folks
 - Finish Post-Completion OPT Reporting when start job.
 - Set up a time for Nills to come and do inspection
 - Set up Luther account for Artix mailbox
+- Begin ordering furniture on Monday, May 25
