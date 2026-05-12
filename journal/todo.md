@@ -10,6 +10,5 @@
 - Borrow 3k from LD
 - Set up electricity + rental insurance (check Nills email for Lemonade) for Artix
 - Finish Post-Completion OPT Reporting when start job.
-- Set up a time for Nills to come and do inspection
 - Set up Luther account for Artix mailbox
 - Begin ordering furniture on Monday, May 25
