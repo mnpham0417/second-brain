@@ -10,3 +10,5 @@
 - Set up Luther account for Artix mailbox
 - Begin ordering furniture on Monday, May 25
 - Order REI shoes in May 24
+- Get phone number back from Mint mobile
+- Reset email WPI
