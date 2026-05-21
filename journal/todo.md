@@ -10,4 +10,4 @@
 - Set up Luther account for Artix mailbox
 - Begin ordering furniture on Monday, May 25
 - Order REI shoes in May 24
-- Reach out to Meta recruiter to confirm validity of offer on 05/25
+- Email Artix about Litter Robot coming on 05/25
