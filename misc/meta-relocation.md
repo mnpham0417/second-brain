@@ -15,6 +15,7 @@
 - [Took kit](https://www.amazon.com/HOTO-Household-Essentials-Screwdriver-Accessories/dp/B0F4RC7JDT/ref=sxin_17_pa_sp_search_thematic_sspa?content-id=amzn1.sym.e08496f1-da11-43e5-956a-8a5a7c0fd8f3%3Aamzn1.sym.e08496f1-da11-43e5-956a-8a5a7c0fd8f3&crid=3UHS64PQIJFR0&cv_ct_cx=screwdriver%2Bset&keywords=screwdriver%2Bset&pd_rd_i=B0F4RC7JDT&pd_rd_r=5a4fc1c6-6f1b-42f4-91d2-a3c7f35c5da3&pd_rd_w=c7sbk&pd_rd_wg=8lJ7q&pf_rd_p=e08496f1-da11-43e5-956a-8a5a7c0fd8f3&pf_rd_r=Q30EBCBGD1B9R7N0HRV3&qid=1777559146&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=scr%2Caps%2C215&sr=1-3-383bc08e-f3b5-4928-b079-a9607486ab19-spons&aref=gS3m8Ucovh&sp_csd=d2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM&th=1) : $70
 - [Xofa](https://www.wayfair.com/furniture/pdp/latitude-run-adonia-foldable-three-person-fabric-sofa-bed-high-rebound-density-sponge-sofa-w111930010.html) : $419
 - On Cloud Shoes
+- [Lambs](https://hoo.be/spacesbyeric)
 
 Non-priority:
 - [Robot Vacuum](https://www.amazon.com/dp/B0GGRSMXKN?maas=maas_adg_92E19291B6C778DB5A8ED39B4E006F92_afap_abs&ref_=aa_maas&tag=maas&th=1) : $700
