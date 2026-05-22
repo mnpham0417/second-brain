@@ -13,3 +13,4 @@
 - Email Artix about Litter Robot coming on 05/24
 - Order stuff on Amazon for Apt on May 27
 - Request new Apple Card number when Apple refund is finished
+- Call FedEx
