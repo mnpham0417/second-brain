@@ -8,6 +8,7 @@
 - Set up electricity + rental insurance (check Nills email for Lemonade) for Artix
 - Finish Post-Completion OPT Reporting when start job.
 - Set up Luther account for Artix mailbox
-- Begin ordering furniture on Monday, May 25
+- Begin ordering furniture on Monday, May 27
 - Order REI shoes in May 24
-- Email Artix about Litter Robot coming on 05/25
+- Email Artix about Litter Robot coming on 05/24
+- Order stuff on Amazon for Apt on May 27
