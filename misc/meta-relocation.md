@@ -21,7 +21,8 @@ Non-priority:
 - [Robot Vacuum](https://www.amazon.com/dp/B0GGRSMXKN?maas=maas_adg_92E19291B6C778DB5A8ED39B4E006F92_afap_abs&ref_=aa_maas&tag=maas&th=1) : $700
 - iPad Air 11 inch 256 GB
 - Projector
-	- ELEPHAS Smart 4K Projector
+	- # XGIMI HORIZON
+	- 
 ## First Consultation 
 - Occurs April 23
 - The guy helping me name is Nills
