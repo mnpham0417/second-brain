@@ -22,7 +22,7 @@ Non-priority:
 - iPad Air 11 inch 256 GB
 - Projector
 	- # XGIMI HORIZON
-	- 
+
 ## First Consultation 
 - Occurs April 23
 - The guy helping me name is Nills
