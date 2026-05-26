@@ -5,8 +5,8 @@
 - Ping John Kim at Meta to chat
 - Check out course from [walkinglabs](https://github.com/walkinglabs)
 - Tra My has US visa interview on July 6
-- Set up electricity + rental insurance (check Nills email for Lemonade) for Artix
+- Set up rental insurance (check Nills email for Lemonade) for Artix
 - Finish Post-Completion OPT Reporting when start job.
 - Begin ordering furniture on Monday, May 27
-- Order stuff on Amazon for Apt on May 27
+- Update billing address on all credit and debit cards
 
