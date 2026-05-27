@@ -7,6 +7,5 @@
 - Tra My has US visa interview on July 6
 - Set up rental insurance (check Nills email for Lemonade) for Artix
 - Finish Post-Completion OPT Reporting when start job.
-- Begin ordering furniture on May 27
 - Update billing address on all credit and debit cards
 
