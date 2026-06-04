@@ -1,11 +1,12 @@
 - Work on EB2
 - Set up second brain (https://learn.nextwork.org/projects/ai-second-brain-claude-code?utm_source=youtube&track=no)
 - Update job and address to NYU international house
-- Amazon onboarding
 - Ping John Kim at Meta to chat
 - Check out course from [walkinglabs](https://github.com/walkinglabs)
 - Tra My has US visa interview on July 6
 - Set up rental insurance (check Nills email for Lemonade) for Artix
 - Finish Post-Completion OPT Reporting when start job.
 - Update billing address on all credit and debit cards
+- Fill out application to update name on SSN
+- Tell Apple to block Mint mobile
 
