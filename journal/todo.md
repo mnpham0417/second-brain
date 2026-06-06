@@ -9,4 +9,6 @@
 - Update billing address on all credit and debit cards
 - Fill out application to update name on SSN
 - Tell Apple to block Mint mobile
+- Check to see if Myflowers.co.uk actually deliver the flower
+- Chat with Yonghao
 
