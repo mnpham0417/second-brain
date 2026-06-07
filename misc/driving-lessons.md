@@ -11,4 +11,6 @@
 ## Others
 - WDL Account:
 	- Username: mnpham0417
-- Kno
+- Knowledge Test Resource:
+	- https://www.reddit.com/r/driving/comments/1n64ng0/washington_drivers_knowledge_test_study_guid/
+	  
