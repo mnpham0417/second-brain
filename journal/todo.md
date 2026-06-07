@@ -13,4 +13,5 @@
 - Chat with Yonghao
 - Look into HYSA
 - Look into learning how to drive
+- Set up schedule to meet up with Jin, Pawel, and Valeriia
 
