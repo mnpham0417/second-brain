@@ -20,3 +20,5 @@ STAR method:
 - Result
 
 Tell me about a project that failed or didn't go as planned. What did you learn, and what would you do differently?
+
+Describe a time you took on something well outside your comfort zone or your defined role. What pushed you to do it?
