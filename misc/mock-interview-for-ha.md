@@ -13,7 +13,7 @@ A subarray is a contiguous **non-empty** sequence of elements within an array.
 
 Note:
 - Why are you repeating the question?
-- 
+- Why python?
 
 Q2:
 
