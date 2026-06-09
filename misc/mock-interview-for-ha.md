@@ -14,8 +14,12 @@ A subarray is a contiguous **non-empty** sequence of elements within an array.
 Note:
 - Why are you repeating the question?
 - Why python?
+- Not confident
 
 Q2:
+
+Note:
+- Think first. Then walk through proposed solution
 
 https://leetcode.com/problems/random-pick-with-weight/description/
 
