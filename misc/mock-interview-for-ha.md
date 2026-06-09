@@ -1,6 +1,8 @@
 
 ## Coding (45 minutes)
 
+Start: 9:08
+
 Q1: 
 
 https://leetcode.com/problems/subarray-sum-equals-k/
@@ -8,6 +10,10 @@ https://leetcode.com/problems/subarray-sum-equals-k/
 Given an array of integers `nums` and an integer `k`, return true if there exists a subarray whose sum equals to `k`.
 
 A subarray is a contiguous **non-empty** sequence of elements within an array.
+
+Note:
+- Why are you repeating the question?
+- 
 
 Q2:
 
