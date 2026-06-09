@@ -14,4 +14,5 @@
 - Set up schedule to meet up with Jin, Pawel
 - Set up schedule to chat with Valeriia
 - Set up schedule to chat with Yonghao
+- Call BoA to dispute RI *NAPSTER I RHAPSODY
 
