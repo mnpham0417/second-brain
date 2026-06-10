@@ -9,9 +9,9 @@
 - Fill out application to update name on SSN
 - Look into HYSA
 - Look into learning how to drive
-- Set up schedule to meet up with Jin, Pawel
-- Set up schedule to chat with Valeriia
-- Set up schedule to chat with Yonghao
+- Set up schedule to meet up with Jin, Pawel (after 6/20)
+- Set up schedule to chat with Valeriia (after 6/20)
+- Set up schedule to chat with Yonghao (during orientation)
 - Call BoA to dispute RI *NAPSTER I RHAPSODY
 - Ask Jin for Ha internship
 
