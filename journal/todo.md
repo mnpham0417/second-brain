@@ -7,11 +7,11 @@
 - Finish Post-Completion OPT Reporting when start job.
 - Update billing address on all credit and debit cards
 - Fill out application to update name on SSN
-- Tell Apple to block Mint mobile
 - Look into HYSA
 - Look into learning how to drive
 - Set up schedule to meet up with Jin, Pawel
 - Set up schedule to chat with Valeriia
 - Set up schedule to chat with Yonghao
 - Call BoA to dispute RI *NAPSTER I RHAPSODY
+- Ask Jin for Ha internship
 
