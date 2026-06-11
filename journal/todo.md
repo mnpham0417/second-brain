@@ -15,6 +15,6 @@
 - Call BoA to dispute RI NAPSTER I RHAPSODY, or just cancel accounts
 - Ask Jin for Ha internship
 - Downgrade Claude
-- Set up safe
-- Set up Internet account
+- Set up safe (let's submit a request first)
+- Set up Internet account (Call Astound on Friday, 6/12)
 
