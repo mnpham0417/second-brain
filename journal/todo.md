@@ -14,4 +14,5 @@
 - Set up schedule to chat with Yonghao (during orientation)
 - Call BoA to dispute RI *NAPSTER I RHAPSODY
 - Ask Jin for Ha internship
+- Cancel Claude
 
