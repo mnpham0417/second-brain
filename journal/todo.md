@@ -7,12 +7,14 @@
 - Finish Post-Completion OPT Reporting when start job.
 - Update billing address on all credit and debit cards
 - Fill out application to update name on SSN
-- Look into HYSA
+- Look into HYSA (CIT Bank)
 - Look into learning how to drive
 - Set up schedule to meet up with Jin, Pawel (after 6/20)
 - Set up schedule to chat with Valeriia (after 6/20)
 - Set up schedule to chat with Yonghao (during orientation)
-- Call BoA to dispute RI *NAPSTER I RHAPSODY
+- Call BoA to dispute RI NAPSTER I RHAPSODY, or just cancel accounts
 - Ask Jin for Ha internship
-- Cancel Claude
+- Downgrade Claude
+- Set up safe
+- Set up Internet account
 
