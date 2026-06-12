@@ -12,12 +12,11 @@
 - Set up schedule to meet up with Jin, Pawel (after 6/20)
 - Set up schedule to chat with Valeriia (after 6/20)
 - Set up schedule to chat with Yonghao (during orientation)
-- Set up schedule to chat with Anubhav (during orientation)
-- Set up schedule to chat with Govind (during orientation, maybe)
 - Set up schedule to chat with Gauri (during orientation, maybe)
 - Set up schedule to chat with Hang (during orientation, maybe)
 - Ask Jin for Ha internship
 - Downgrade Claude
 - Set up safe (let's submit a request first)
 - Set up Internet account (Call Astound on Friday, 6/12)
+- Call Alaska Airline to request receipts
 
