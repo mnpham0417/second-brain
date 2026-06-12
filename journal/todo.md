@@ -16,7 +16,6 @@
 - Set up schedule to chat with Govind (during orientation, maybe)
 - Set up schedule to chat with Gauri (during orientation, maybe)
 - Set up schedule to chat with Hang (during orientation, maybe)
-- Call BoA to dispute RI NAPSTER I RHAPSODY, or just cancel accounts
 - Ask Jin for Ha internship
 - Downgrade Claude
 - Set up safe (let's submit a request first)
