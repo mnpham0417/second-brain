@@ -17,6 +17,4 @@
 - Ask Jin for Ha internship
 - Downgrade Claude
 - Set up safe (let's submit a request first)
-- Set up Internet account (Call Astound on Friday, 6/12)
-- Call Alaska Airline to request receipts
 
