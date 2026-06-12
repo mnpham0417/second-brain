@@ -12,6 +12,10 @@
 - Set up schedule to meet up with Jin, Pawel (after 6/20)
 - Set up schedule to chat with Valeriia (after 6/20)
 - Set up schedule to chat with Yonghao (during orientation)
+- Set up schedule to chat with Anubhav (during orientation)
+- Set up schedule to chat with Govind (during orientation, maybe)
+- Set up schedule to chat with Gauri (during orientation, maybe)
+- Set up schedule to chat with Hang (during orientation, maybe)
 - Call BoA to dispute RI NAPSTER I RHAPSODY, or just cancel accounts
 - Ask Jin for Ha internship
 - Downgrade Claude
