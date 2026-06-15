@@ -56,37 +56,48 @@ Anchored to Day 1 = NHO on 2026-06-15. A few items depend on whether I'm in a tr
 
 ## Taro course: The Complete Onboarding Guide for Software Engineers
 
-Source: Taro (jointaro.com), by **Rahul Pandey** — Taro cofounder, ex-Meta Staff SWE/Manager (also Pinterest, Kosei). 3h 11m, 4.98★ (47 reviews). *Summary below is from the course overview + lesson outline, not the video content itself.*
+Source: Taro (jointaro.com), by **Rahul Pandey** — Taro cofounder, ex-Meta Staff SWE/Manager (also Pinterest, Kosei). 3h 11m, 4.98★ (47 reviews). *Summary below is from the actual per-lesson text on each lesson page (the prose write-ups), read across all 30 lessons. I could not transcribe the videos themselves; slides not opened.*
 
-### Core idea
-Onboarding — your first weeks/months on a new team — has an outsized effect on your future opportunities. Most companies onboard badly, so taking ownership of it yourself is the edge. The course gives a roadmap built on mindset + three pillars + situational tips.
+### 1. Overview
+- **Why onboarding matters** — picture a "Trust Meter" (0–100); as the new engineer you start at ~50. You must work to raise it before you unlock larger-scoped projects, and that work begins in onboarding. With average tenure < 2 years and frequent re-orgs, you have to ramp in a fraction of the time. Attack it with a proactive plan and urgency.
+- **Why most companies suck at onboarding** — it's important-but-not-urgent, and tenured people forget what being new is like. Failure is either too little onboarding (startups) or excessive bureaucratic months of training (big cos); docs go stale either way. Bad onboarding = an opening for you to have immediate impact.
+- **Being new is a superpower** — nobody wants to be mean to the new person, so you can request resources aggressively; you can see problems tenured people tolerate; you can connect dots across teams. "You will never have fresh eyes again." If you rewrite a confusing resource so *you* understand it, you've helped everyone.
+- *Mindset to avoid:* the panicked↔complacent spectrum — panicked = try to read everything, stressed; complacent = reactive, incurious, not stressed enough.
 
-### Mindset
-- **Being new is a superpower** — you have a short window where asking "naive" questions and a fresh outside view are expected and welcomed. Use it before it closes.
-- **Talk & Observe framework** — learn by both asking people and watching how the team actually works, rather than assuming.
-- **Create an onboarding doc** — keep your own running doc of what you learn, questions, and setup steps. (Maps directly to the Meta "understand the team" 30-day goal from Saurajit — see [[people#Saurajit (my manager)]].)
-- **Have the "meta conversation"** — explicitly align with your manager on expectations and what good looks like.
-- **Respect what came before** — hold back on heavy criticism early; understand why things are the way they are first (a point several reviewers, especially senior ones, called out).
+### 2. Proper onboarding mentality
+- **Talk & Observe framework** — the two main ways you learn. **Talk** to people (use Boz / Meta CTO's "Career Cold Start Algorithm"; ask their priorities and concerns). **Observe** the artifacts of their work: code commits, code-review comments, design docs, calendars.
+- **Create an onboarding doc** — a reference designed for you: role + team, people to meet, how to start. Your manager usually provides one; augment or write your own if it's lacking, and use it to deepen the manager relationship. Good components: team charter (from company mission), partner teams + people, clearly measurable expectations + milestones, project ideas with t-shirt sizing, and the eng rubric / career matrix. *(Maps to Saurajit's 30-day "understand the team" goal — [[people#Saurajit (my manager)]].)*
+- **Have the "meta conversation"** — a conversation about how you'll communicate: how often to meet, how often you want feedback, written vs verbal updates and format. Worth it given hundreds of hours together.
 
-### Pillar 1 — Asking for help
-- Get an **onboarding buddy** and use them well.
-- **Ask questions well**: do your homework first, then ask in a way that gets maximum value per answer.
-- Failure mode to avoid: **excessive handholding** (over-relying on others instead of building independence).
+### 3. Asking for help
+- **The common misconception** — plan to ask *many* questions. Bust two myths: asking ≠ weakness (you're expected to), and you won't waste people's time (everyone's knowledge is incomplete). Narrow the scope and you can out-know anyone on one topic fast.
+- **Your onboarding buddy** — a catch-all for cultural norms and questions who lends you their social capital; should be someone *other than your manager* (no power dynamic, so you can be vulnerable). A key job of theirs: help you find your support channels.
+- **Ask questions well** — a good question gets you help *and* builds trust. Add enough context but not too much; prefer public forums (your question helps others and signals to the team); don't just say "hello" and wait (nohello.net).
+- **Get maximum value per answer** — "learn to fish": ask follow-ups, understand how you'd reach the answer yourself. Bias to asking *early* when new — better to be more annoying for one month than mildly annoying for six.
+- **Case study: setting up your environment** — the goal isn't the setup, it's doing the thing setup enables (a copy/color change). Lean on abstraction — blindly following a script is fine; keep moving. When blocked, look ahead and parallelize.
+- **Failure mode: excessive handholding** — bad sign if you still need support 6 months in. Progress shows when your questions and code reviews *evolve*. Reflect: re-read earlier code comments, log your questions, don't repeat mistakes, ask your buddy to spot patterns.
 
-### Pillar 2 — Learning the codebase
-- There's a wrong way (trying to read everything top-to-bottom) — instead **figure out what actually matters** in the codebase.
-- **Rack up small wins** early to build momentum and context.
-- Failure mode to avoid: **fake learning** (passively reading docs/code without real understanding). One reviewer noted being handed huge docs and told to "read everything" is not the efficient path.
+### 4. Learning the codebase
+- **How to NOT learn a codebase** — the big mistake is exhaustively reading code + (stale) docs. Instead dig in and code: break things, add print statements everywhere, get the debugger working, run it and watch. Hands on keyboard even when uncomfortable.
+- **Figuring out what matters** — Pareto 80/20: ~20% of components drive ~80% of impact. Find that 20% by talking to people, using git blame to find hotspots, spotting patterns in code reviews, and looking at past alerts and what triggered them.
+- **Rack up small wins** — get a quick win, however small; avoid ambiguous/complex first projects. Ideas (many need *no* code commit): share something you learned, update docs and tell people, improve wikis with screenshots, fix a "papercut" typo/minor bug.
+- **Failure mode: fake learning** — bingeing tutorials/books feels productive (progress bars!) but retention is poor. SWE is action, not theory — minimize the time from reading a concept to practicing it on the computer, ideally inside the company's codebase. Growth comes from discomfort.
 
-### Pillar 3 — Building relationships
-- **Work with your manager**; meet the team broadly.
-- **Uplevel your 1:1s** and **ask for specific feedback** — even hands-off managers usually have valuable input when asked directly. (Relevant: my cadence with Saurajit is weekly as a new hire.)
-- **Thank people, a lot.**
+### 5. Building relationships
+- **Working with your manager** — the most important person for your progression; no support → no promotion. Bare minimum: a recurring weekly/biweekly 1:1, 30+ min. Tell them you're eager for feedback; add structure with a written template. If they cancel often, a running 1:1 agenda doc is your defense. *(Saurajit set weekly 1:1s for new hires.)*
+- **Meet the team** — SWE is a team sport. Proactively book 1:1s; set recurring ones with key people for the first month or two. Pre-mortem: ask "who could throw me under the bus?" and pre-empt it by building goodwill. Prioritize in-person — trust builds far faster than remote; if hybrid, come in and align on shared days.
+- **Uplevel your 1:1s** — three principles: pursue awkward 1:1s, go beyond status updates, write down takeaways. Never run out of topics with important people: what's going well/badly for you and the team, ask for opportunities/resources, give/ask for feedback, brainstorm, career/perf planning.
+- **Ask for specific feedback** — skip the lazy "any feedback?" Ask structured: task-specific ("one thing that would've made this stronger?"), behavioral ("something I do well I should do more of?"), and meta ("best way for us to exchange feedback?"). After a few weeks, book a dedicated feedback 1:1.
+- **Thank people (a lot!)** — thanks builds social capital → influence → promotion. Be specific ("that unblocked a critical milestone," not "thanks for the pointer"). Thank in person/call, send a short heartfelt note, tell their manager, thank in public forums, and give recurring thanks (standup, team meeting, at project end).
 
-### Situational tips
-- Tailored advice for **junior** vs **senior+** engineers, **small** vs **large** companies, and roles with a **probation period**.
-- Includes how to tell **if you're doing well** during onboarding.
-- Note: Rahul's own Big Tech reference point is Meta's multi-week **Bootcamp** — directly relevant to my context.
+### 6. Contextual tips
+- **How to know if you're doing well** — connect your work to the team/org/company's bigger picture. Good signs: you add value and can help people newer than you, you improve the onboarding process, you understand and contribute to code reviews. Bad signs: not engaging with the team, not getting valuable work even when you propose ideas, needing constant support.
+- **Smaller companies** — benchmark: land code within a week; find the tenured people and learn their worldview/prioritization; don't assume processes or roles exist (e.g. there may be no QA or design team).
+- **Larger companies** — expect a formal process but don't move slowly (still set up env + land code within a week). Many teams with competing priorities → invest in cross-team relationships and learn the company's acronyms/culture (Amazon, Meta, Google, Microsoft each have their own). *Directly relevant to Meta.*
+- **Junior engineers** — goal is to show autonomy after onboarding; you're not expected to know much. Coachability is the key trait — seek feedback and act on it. Don't "solo-carry"; set milestones to show progress. Pair programming is especially valuable.
+- **Senior+ engineers** — you're expected to bring domain knowledge; contrast how past vs current companies operate and question why processes do/don't exist. But "respect what came before" — don't disparage existing systems that were sensible under their original constraints. Invest extra in relationships and meet other senior/staff/principal engineers for org-level impact.
+- **Probation / contract-to-hire** — common outside the US. Chat with your manager early (even pre-start); call out any limited info access so it doesn't reflect on you; learn exactly what you're judged on (commits, reviews, design docs) and track/report those metrics.
 
-### Worth doing
-Watch the relevant parts before/around Week 1 — the codebase + 1:1/feedback sections line up with the 30/60/90 plan and weekly check-ins Saurajit laid out.
+### 7. Conclusion
+- **Pass on your onboarding knowledge** — make it easier for the next person: improve the process, support juniors, keep building relationships. Onboarding is fundamentally about building trust (the trust meter) → trust becomes influence → influence drives career growth.
+- **Top takeaways:** attack onboarding with a plan · figure out your support channels · make it easy to receive help · get your hands on the keyboard.
