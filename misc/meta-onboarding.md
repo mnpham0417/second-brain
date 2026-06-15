@@ -116,19 +116,28 @@ Source: Taro (jointaro.com), by **Rahul Pandey** — Taro cofounder, ex-Meta Sta
 
 ## Onboarding doc template
 
-A reusable scaffold for my own onboarding doc, built from the Taro "Create an onboarding doc" lesson (see the course summary above) plus its 1:1, feedback, and README guidance. Fill in the `<placeholders>`, then **share it with [[people#Saurajit (my manager)]]** and use it to align on expectations. Keep it living — revisit weekly and at the 30/60/90 checkpoints. Seeded with my known context (Trust & Safety / Central Integrity); edit freely.
+A reusable scaffold for my own onboarding doc, built from the Taro "Create an onboarding doc" lesson (see the course summary above) plus its 1:1, feedback, and README guidance. Fill in the `<placeholders>` and keep it living — revisit weekly and at the 30/60/90 checkpoints. Seeded with my known context (Trust & Safety / Central Integrity); edit freely.
 
-**How to use:** copy this whole section into a Workplace/Quip doc, share with my manager + onboarding buddy, drop questions inline (it's a collaboration surface — ask for input, remove ambiguity), and review it in each weekly 1:1.
+**Keep two copies:**
+- **Part A — collaboration copy:** copy into a Workplace/Quip doc and **share with [[people#Saurajit (my manager)]]**. It's a collaboration surface — drop questions inline, ask for input, review it each weekly 1:1. Items tagged *(buddy ok)* are also fine to share with my onboarding buddy/mentor.
+- **Part B — private master:** lives only with me. Never shared. For candid tracking, reflection, and strategy.
 
-### 1. About me (README)
+> When I do share Part A, I set the sharing myself in Workplace/Quip and pick access deliberately (just Saurajit vs. team).
+
+---
+
+## Part A — Share with my manager (collaboration copy)
+
+### A1. About me (README)
+*Share the README — it helps Saurajit support me. Keep the rawest personal struggles in Part B (B3).*
 - **Career story:** `<2–3 lines: background + how I got here>`
 - **What energizes me:** `<types of work / problems>`
-- **What drains me:** `<...>`
+- **What drains me:** `<the shareable version>`
 - **Working style:** `<focus hours, sync vs async, how I plan>`
 - **How I like feedback:** `<direct/verbal vs written/reflective; cadence>`
 - **Communication prefs:** `<channels, response-time expectations>`
 
-### 2. Role & team
+### A2. Role & team
 - **Name / role / level:** `<...>`
 - **Start date:** 2026-06-15 (NHO)
 - **Team:** Trust & Safety — Central Integrity (`<specific team>`)
@@ -137,13 +146,13 @@ A reusable scaffold for my own onboarding doc, built from the Taro "Create an on
 - **Mentor:** `<name>`
 - **1:1 cadence:** Weekly, 30 min (new-hire cadence per Saurajit)
 
-### 3. Team charter
+### A3. Team charter
 - **Company mission → team mission:** `<how the team's mission rolls up from the company mission>`
 - **What we own:** `<surfaces / systems / harms — e.g. Feeds, Marketplace scam, entity & actor>`
 - **Key metrics:** `<e.g. prevalence (% of content that's bad), engagement>`
 - **Current priorities (this half):** `<...>`
 
-### 4. Partner teams & key people to meet
+### A4. Partner teams & key people to meet *(buddy ok)*
 *Run Boz's Career Cold Start Algorithm in each intro: ~25 min "tell me everything I should know," ~3 min biggest challenges, ~2 min who else to talk to.*
 
 | Person | Role / team | Why meet | 1:1 booked? | Met? |
@@ -153,21 +162,21 @@ A reusable scaffold for my own onboarding doc, built from the Taro "Create an on
 | `<tech lead>` | TL on my project | Project context | | |
 | `<partner>` | `<team>` | Cross-team dependencies | | |
 
-### 5. Expectations & milestones (30 / 60 / 90)
+### A5. Expectations & milestones (30 / 60 / 90)
 *Make each one measurable so it's clear whether I hit it. Co-own with Saurajit.*
 - **30 days — understand the team:** `<e.g. env set up + first diff landed; met key people; can explain the charter & top 3 systems>`
 - **60 days — take on core production work:** `<e.g. own a scoped project; start on-call shadowing>`
 - **90 days — "flying free":** `<e.g. independently driving <project>>`
 
-### 6. Project ideas (with t-shirt sizing)
+### A6. Project ideas (with t-shirt sizing)
 | Project | Why it matters | Size (S/M/L) | Owner / TL | Status |
 |---|---|---|---|---|
 | SOTA LLM one-shot detection (distillation) | `<impact>` | `<L?>` | `<...>` | idea |
 | Entity/group representation (admins? interactions? content? reactions?) | `<impact>` | `<...>` | `<...>` | idea |
 | `<quick win — doc fix / papercut>` | early momentum | S | me | — |
 
-### 7. Level expectations — the delta to next level
-*From the promotion lesson: make the delta concrete, anchored to behavior, split by review axes. Avoid vague lines like "have broader influence."*
+### A7. Level expectations — the delta to next level
+*From the promotion lesson: make the delta concrete, anchored to behavior, split by review axes. Avoid vague lines like "have broader influence." (Keep private promo timing/strategy in B5.)*
 
 | Axis | Current level (`<L?>`) | Next level (`<L?+1>`) — the delta |
 |---|---|---|
@@ -176,40 +185,71 @@ A reusable scaffold for my own onboarding doc, built from the Taro "Create an on
 | Engineering excellence | `<e.g. review diffs within my domain>` | `<e.g. review diffs across the org stack>` |
 | People | `<...>` | `<...>` |
 
-### 8. Environment & access checklist
+### A8. Environment & access checklist *(buddy ok)*
 - [ ] Dev environment working (goal: land a trivial change fast — a copy/color change — not "finish setup")
 - [ ] Repo access · build green · debugger working
 - [ ] Required access / groups: `<...>`
 - [ ] On-call & alerting tooling access: `<...>`
 
-### 9. Glossary (team & company jargon)
+### A9. Glossary (team & company jargon) *(buddy ok)*
 | Term | Meaning |
 |---|---|
 | PSC | Performance Summary Cycle (Meta's perf review) |
 | `<term>` | `<...>` |
 
-### 10. Open questions log
+### A10. Open questions log *(buddy ok)*
 | Question | Asked whom | Answer | Date |
 |---|---|---|---|
 | `<...>` | | | |
 
-### 11. Manager 1:1 — running agenda
-*Seed this >24h before each meeting so Saurajit can prep. Structure = facts + emotion + actions.*
+### A11. Manager 1:1 — running agenda
+*Seed this >24h before each meeting so Saurajit can prep. Structure = facts + emotion + actions. (My private prep/interpretation goes in Part B.)*
 - **Wins since last time (each with a "so what?" impact):** `<...>`
 - **Updates / what I'm working on:** `<...>`
 - **Reflections — going well / not well (me + team):** `<...>`
 - **Help needed / blockers:** `<...>`
 - **Feedback — ask something specific ("what could I start or stop doing to ramp up faster?"):** `<...>`
 - **Action items (both sides):** `<...>`
-- **Periodic: hypothetical rating check ("if you had to rate me today…"):** `<...>`
+- **Periodic: ask for a hypothetical rating ("if you had to rate me today…"):** `<track the answers privately in B2>`
 
-### 12. Feedback log
-| Date | Feedback | From | Action taken / follow-up |
-|---|---|---|---|
-| `<...>` | | | |
-
-### 13. Support channels
+### A12. Support channels *(buddy ok)*
 - **Onboarding buddy:** `<name>`
 - **Who to ask for what:** `<area → person / channel>`
 - **Team channels / groups:** `<...>`
 - **Help@ / Helpdesk:** fburl.com/helpdesk
+
+---
+
+## Part B — Keep private (my master copy only)
+
+*Do not share. For my own tracking, candid reflection, and strategy. Surface only the polished/relevant bits into Part A or a 1:1 when useful.*
+
+### B1. Feedback log (raw)
+*Verbatim feedback + my honest reaction. The clean "action taken" can graft into a 1:1; the raw reaction stays here.*
+| Date | Feedback (raw) | From | My honest reaction | Action taken |
+|---|---|---|---|---|
+| `<...>` | | | | |
+
+### B2. Where I stand — hypothetical-rating tracking
+*From the "rating should never be a surprise" lesson. Track what Saurajit signals vs. my own read.*
+| Date | Saurajit's hypothetical rating | My own read | Gap to close |
+|---|---|---|---|
+| `<...>` | | | |
+
+### B3. Candid reflections
+- **What's really energizing / draining me:** `<the unfiltered version>`
+- **Struggles (work or personal):** `<...>` — *be vulnerable selectively; decide case-by-case what to raise with Saurajit (his job is to protect my quality of life, but only if he knows).*
+- **Doubts / things I'm unsure about:** `<...>`
+
+### B4. Team pre-mortem & relationship map
+*From the "Meet the team" lesson — who could "throw me under the bus," who are allies, and how I'll build goodwill. Private by nature.*
+| Person | Ally / risk | Why | My plan |
+|---|---|---|---|
+| `<...>` | | | |
+
+### B5. Promotion strategy & timing
+*Private strategy — the concrete level delta itself can be shared (A7), but timing/positioning stays here.*
+- **Target level & rough timeline:** `<...>`
+- **When to formally raise promo:** *not week one — need trust + an org need first; be a solid performer before bringing it up.*
+- **Org-need read (is there headroom at the next level?):** `<...>`
+- **Notes / comp thoughts:** `<...>`
