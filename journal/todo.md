@@ -17,4 +17,5 @@
 - Ask Jin for Ha internship
 - Downgrade Claude
 - Set up safe (let's submit a request first)
+- Learn about team's communication style and work style (how PR is structured for instance)
 

@@ -111,3 +111,105 @@ Source: Taro (jointaro.com), by **Rahul Pandey** — Taro cofounder, ex-Meta Sta
 
 ### Meta-specific note (from a slide)
 - One slide shows Meta's performance-rating scale + a rough distribution: **MS** Meets Some 2% · **MM** Meets Most 8% · **MA** Meets All 45% · **EE** Exceeds 35% · **GE** Greatly Exceeds 7% · **RE** Redefines 3%. Helpful framing for Checkpoint/PSC once you're in. *(This is course material, not official Meta guidance — treat the numbers as approximate.)*
+
+---
+
+## Onboarding doc template
+
+A reusable scaffold for my own onboarding doc, built from the Taro "Create an onboarding doc" lesson (see the course summary above) plus its 1:1, feedback, and README guidance. Fill in the `<placeholders>`, then **share it with [[people#Saurajit (my manager)]]** and use it to align on expectations. Keep it living — revisit weekly and at the 30/60/90 checkpoints. Seeded with my known context (Trust & Safety / Central Integrity); edit freely.
+
+**How to use:** copy this whole section into a Workplace/Quip doc, share with my manager + onboarding buddy, drop questions inline (it's a collaboration surface — ask for input, remove ambiguity), and review it in each weekly 1:1.
+
+### 1. About me (README)
+- **Career story:** `<2–3 lines: background + how I got here>`
+- **What energizes me:** `<types of work / problems>`
+- **What drains me:** `<...>`
+- **Working style:** `<focus hours, sync vs async, how I plan>`
+- **How I like feedback:** `<direct/verbal vs written/reflective; cadence>`
+- **Communication prefs:** `<channels, response-time expectations>`
+
+### 2. Role & team
+- **Name / role / level:** `<...>`
+- **Start date:** 2026-06-15 (NHO)
+- **Team:** Trust & Safety — Central Integrity (`<specific team>`)
+- **Manager:** Saurajit ([[people#Saurajit (my manager)]])
+- **Onboarding buddy:** `<name — request one if not assigned>`
+- **Mentor:** `<name>`
+- **1:1 cadence:** Weekly, 30 min (new-hire cadence per Saurajit)
+
+### 3. Team charter
+- **Company mission → team mission:** `<how the team's mission rolls up from the company mission>`
+- **What we own:** `<surfaces / systems / harms — e.g. Feeds, Marketplace scam, entity & actor>`
+- **Key metrics:** `<e.g. prevalence (% of content that's bad), engagement>`
+- **Current priorities (this half):** `<...>`
+
+### 4. Partner teams & key people to meet
+*Run Boz's Career Cold Start Algorithm in each intro: ~25 min "tell me everything I should know," ~3 min biggest challenges, ~2 min who else to talk to.*
+
+| Person | Role / team | Why meet | 1:1 booked? | Met? |
+|---|---|---|---|---|
+| Saurajit | My EM | Expectations, direction | weekly | |
+| `<buddy>` | Onboarding buddy | Day-to-day, tooling | | |
+| `<tech lead>` | TL on my project | Project context | | |
+| `<partner>` | `<team>` | Cross-team dependencies | | |
+
+### 5. Expectations & milestones (30 / 60 / 90)
+*Make each one measurable so it's clear whether I hit it. Co-own with Saurajit.*
+- **30 days — understand the team:** `<e.g. env set up + first diff landed; met key people; can explain the charter & top 3 systems>`
+- **60 days — take on core production work:** `<e.g. own a scoped project; start on-call shadowing>`
+- **90 days — "flying free":** `<e.g. independently driving <project>>`
+
+### 6. Project ideas (with t-shirt sizing)
+| Project | Why it matters | Size (S/M/L) | Owner / TL | Status |
+|---|---|---|---|---|
+| SOTA LLM one-shot detection (distillation) | `<impact>` | `<L?>` | `<...>` | idea |
+| Entity/group representation (admins? interactions? content? reactions?) | `<impact>` | `<...>` | `<...>` | idea |
+| `<quick win — doc fix / papercut>` | early momentum | S | me | — |
+
+### 7. Level expectations — the delta to next level
+*From the promotion lesson: make the delta concrete, anchored to behavior, split by review axes. Avoid vague lines like "have broader influence."*
+
+| Axis | Current level (`<L?>`) | Next level (`<L?+1>`) — the delta |
+|---|---|---|
+| Project impact | `<...>` | `<...>` |
+| Direction | `<...>` | `<...>` |
+| Engineering excellence | `<e.g. review diffs within my domain>` | `<e.g. review diffs across the org stack>` |
+| People | `<...>` | `<...>` |
+
+### 8. Environment & access checklist
+- [ ] Dev environment working (goal: land a trivial change fast — a copy/color change — not "finish setup")
+- [ ] Repo access · build green · debugger working
+- [ ] Required access / groups: `<...>`
+- [ ] On-call & alerting tooling access: `<...>`
+
+### 9. Glossary (team & company jargon)
+| Term | Meaning |
+|---|---|
+| PSC | Performance Summary Cycle (Meta's perf review) |
+| `<term>` | `<...>` |
+
+### 10. Open questions log
+| Question | Asked whom | Answer | Date |
+|---|---|---|---|
+| `<...>` | | | |
+
+### 11. Manager 1:1 — running agenda
+*Seed this >24h before each meeting so Saurajit can prep. Structure = facts + emotion + actions.*
+- **Wins since last time (each with a "so what?" impact):** `<...>`
+- **Updates / what I'm working on:** `<...>`
+- **Reflections — going well / not well (me + team):** `<...>`
+- **Help needed / blockers:** `<...>`
+- **Feedback — ask something specific ("what could I start or stop doing to ramp up faster?"):** `<...>`
+- **Action items (both sides):** `<...>`
+- **Periodic: hypothetical rating check ("if you had to rate me today…"):** `<...>`
+
+### 12. Feedback log
+| Date | Feedback | From | Action taken / follow-up |
+|---|---|---|---|
+| `<...>` | | | |
+
+### 13. Support channels
+- **Onboarding buddy:** `<name>`
+- **Who to ask for what:** `<area → person / channel>`
+- **Team channels / groups:** `<...>`
+- **Help@ / Helpdesk:** fburl.com/helpdesk
