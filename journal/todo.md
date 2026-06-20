@@ -1,21 +1,15 @@
 - Work on EB2
 - Set up second brain (https://learn.nextwork.org/projects/ai-second-brain-claude-code?utm_source=youtube&track=no)
-- Update job and address to NYU international house
-- Ping John Kim at Meta to chat
 - Check out course from [walkinglabs](https://github.com/walkinglabs)
 - Tra My has US visa interview on July 6
-- Finish Post-Completion OPT Reporting when start job.
 - Update billing address on all credit and debit cards
 - Fill out application to update name on SSN
 - Look into HYSA (CIT Bank)
 - Look into learning how to drive
 - Set up schedule to meet up with Jin, Pawel (after 6/20)
 - Set up schedule to chat with Valeriia (after 6/20)
-- Set up schedule to chat with Yonghao (during orientation)
-- Set up schedule to chat with Gauri (during orientation, maybe)
-- Set up schedule to chat with Hang (during orientation, maybe)
 - Ask Jin for Ha internship
-- Downgrade Claude
 - Set up safe (let's submit a request first)
 - Learn about team's communication style and work style (how PR is structured for instance)
+- Ask LD to ship Ralph Lauren Black Polo to me after coming back from Vietnam
 
