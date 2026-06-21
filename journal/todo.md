@@ -10,6 +10,5 @@
 - Set up schedule to chat with Valeriia (after 6/20)
 - Ask Jin for Ha internship
 - Set up safe (let's submit a request first)
-- Learn about team's communication style and work style (how PR is structured for instance)
 - Ask LD to ship Ralph Lauren Black Polo to me after coming back from Vietnam
 - Order flower for My’s family
