@@ -11,4 +11,4 @@
 - Ask Jin for Ha internship
 - Set up safe (let's submit a request first)
 - Ask LD to ship Ralph Lauren Black Polo to me after coming back from Vietnam
-- Order flower for My’s family
+- Update Meta 401k contribution after receiving sign-on bonus
