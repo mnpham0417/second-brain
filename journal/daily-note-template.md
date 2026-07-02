@@ -3,11 +3,11 @@
 # Habit
 - [ ] Medicine
 - [ ] Gym
-- [ ] Check emails/messages
+- [x] Check emails/messages
 - [ ] Read paper
 
 # Work
-- [ ] Update EB2 forms and respond to attorney (let's do this at 5:30 PM)
+- [x] Update EB2 forms and respond to attorney (let's do this at 5:30 PM)
 
 # Misc
 
